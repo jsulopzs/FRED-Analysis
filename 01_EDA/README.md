@@ -2,6 +2,16 @@
 
 ![](src/cover.gif)
 
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Instructions](#instructions)
+  - [For Beginners:](#for-beginners)
+  - [For Advanced Learners:](#for-advanced-learners)
+- [Live Consulting Sessions](#live-consulting-sessions)
+- [Go Beyond the Exercises](#go-beyond-the-exercises)
+- [Context](#context)
+
 ## Introduction
 
 Hello Aspiring Data Explorers,
@@ -43,7 +53,7 @@ If you are more advanced and up for a challenge, notebook [`01B_EDA.ipynb`](01B_
 
 Remember, if you purchase [Datons Academy's subscription](https://stories.datons.ai/early-adopters-1), you'll be able to attend live consulting sessions. These sessions are a fantastic opportunity to resolve any doubts, interact with experts, gain professional guidance, and explore new lines of code. Boost your programming skills and unlock a deeper understanding of data science!
 
-## A Friendly Reminder
+## Go Beyond the Exercises
 
 While we have constrained the exercises to specific outputs, don't let that limit you. We encourage all participants to think outside the box. Can you create a different visualization that offers more insight? Can you find a novel way to analyze the data?
 
