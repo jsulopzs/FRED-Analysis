@@ -6,8 +6,11 @@
 
 - [Introduction](#introduction)
 - [Instructions](#instructions)
-  - [For Beginners](#for-beginners)
-  - [For Advanced Learners](#for-advanced-learners)
+  - [Install the Required Programs](#install-the-required-programs)
+  - [Download \& Open the Exercises](#download--open-the-exercises)
+  - [Working with the Materials](#working-with-the-materials)
+    - [For Beginners](#for-beginners)
+    - [For Advanced Learners](#for-advanced-learners)
 - [Live Consulting Sessions](#live-consulting-sessions)
 - [Go Beyond the Exercises](#go-beyond-the-exercises)
 - [Context](#context)
@@ -34,18 +37,29 @@ So, prepare your data visualization toolbox and accept the FRED EDA Challenge!
 
 ## Instructions
 
+### Install the Required Programs
+
+For optimal engagement with this exercise, you should install Python and Jupyter Lab. Please follow the step-by-step instructions in [this series of short tutorials](https://www.youtube.com/playlist?list=PL8HtbO24Pl3iVcMUyuaxl7T9henX83ZOm) to ensure a proper setup.
+
+### Download & Open the Exercises
+
+1. Download the files from [this repository](https://github.com/jsulopzs/FRED-Analysis).
+2. Open the exercises following the steps of [this tutorial]().
+
+### Working with the Materials
+
 This challenge involves two Jupyter notebooks:
 
 1. [`01A_EDA.ipynb`](01A_EDA.ipynb)
 2. [`01B_EDA.ipynb`](01B_EDA.ipynb)
 
-### For Beginners
+#### For Beginners
 
 If you are beginning your journey with data visualization, start with notebook [`01A_EDA.ipynb`](01A_EDA.ipynb). This notebook contains a series of blank cells where you'll write your Python code, along with examples of the output you should aim to achieve. Use these outputs as a guideline for what your visualizations and analyses should look like.
 
 Feeling stuck? Don't worry! As a beginner, you can always access premium support by purchasing our specifically designed course for newbies in data analysis and visualization. This course is available with the [Datons Academy's subscription](https://stories.datons.ai/early-adopters-1). By purchasing this subscription, you'll gain access to comprehensive learning materials and dedicated support, designed to guide you through your data science journey.
 
-### For Advanced Learners
+#### For Advanced Learners
 
 If you are more advanced and up for a challenge, notebook [`01B_EDA.ipynb`](01B_EDA.ipynb) is for you. This notebook provides only the titles of the exercises, leaving you complete freedom to decide how to approach and solve each task. This is your chance to get creative with your solutions!
 
