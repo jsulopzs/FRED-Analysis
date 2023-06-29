@@ -44,7 +44,9 @@ For optimal engagement with this exercise, you should install Python and Jupyter
 ### Download & Open the Exercises
 
 1. Download the files from [this repository](https://github.com/jsulopzs/FRED-Analysis).
-2. Open the exercises following the steps of [this tutorial]().
+2. Open the exercises following the steps of the tutorial:
+
+<div style="position: relative; padding-bottom: 61.08597285067873%; height: 0;"><iframe src="https://www.loom.com/embed/d48a715a8f7f4c7b95343c01d3cf3a75?sid=4b8cedb9-f73c-43a1-b2b3-f6040a6d6b4c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Working with the Materials
 
